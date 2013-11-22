@@ -9,8 +9,8 @@ To get started, check out <http://foundation.zurb.com/docs>
 
 To get going with Foundation you can:
 
-  * [Download the latest release](http://foundation5.zurb.com/cdn/releases/foundation-latest.zip)
-  * [Install with Bower](http://bower.io): `bower install zurb/bower-foundation`
+  * [Download the latest release](http://foundation.zurb.com/releases/latest.zip)
+  * [Install with Bower](http://bower.io): `bower install foundation`
 
 ## What's included?
 
@@ -22,9 +22,7 @@ foundation/
 ├── js/
 │   ├── foundation.js
 │   └── foundation.min.js
-└── scss/
-    ├── foundation.scss
-    └── foundation/
+└── index.html
 ```
 
 ## Documentation
