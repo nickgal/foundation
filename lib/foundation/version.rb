@@ -1,3 +1,3 @@
 module Foundation
-  VERSION = "4.3.2"
+  VERSION = "5.0.0"
 end
